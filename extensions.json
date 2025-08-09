@@ -3,11 +3,13 @@
     {
       "id": "html",
       "name": "HTML Language Support",
-      "description": "HTML syntax highlighting and autocompletion",
+      "description": "Provides syntax highlighting and auto-completion for HTML files",
       "version": "1.0.0",
       "author": "VertexVolts",
-      "downloads": 2100,
-      "rating": 4.9
+      "rating": "4.5",
+      "downloads": "1000",
+      "zipUrl": "https://cdn.matebricks.shop/html.zip",
+      "languages": ["html"]
     },
     {
       "id": "javascript",
@@ -20,3 +22,4 @@
     }
   ]
 }
+
