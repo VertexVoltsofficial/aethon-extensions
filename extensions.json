@@ -5,21 +5,18 @@
       "name": "HTML Language Support",
       "description": "HTML syntax highlighting and autocompletion",
       "version": "1.0.0",
-      "author": "Your Name",
+      "author": "VertexVolts",
       "downloads": 2100,
-      "rating": 4.9,
-      "requires": ">=2.0.0"
+      "rating": 4.9
     },
     {
       "id": "javascript",
-      "name": "JavaScript",
+      "name": "JavaScript Support",
       "description": "JavaScript language support with ES6+ features",
       "version": "1.0.0",
-      "author": "Your Name",
+      "author": "VertexVolts",
       "downloads": 1800,
-      "rating": 4.7,
-      "requires": ">=2.0.0"
+      "rating": 4.7
     }
-    // Add more extensions here
   ]
 }
