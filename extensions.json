@@ -9,17 +9,31 @@
       "rating": "4.5",
       "downloads": "1000",
       "zipUrl": "https://cdn.matebricks.shop/html.zip",
-      "languages": ["html"]
+      "languages": ["html", "htm"],
+      "features": [
+        "Syntax highlighting",
+        "Tag auto-completion",
+        "Attribute suggestions",
+        "HTML5 support"
+      ]
     },
     {
-      "id": "javascript",
+      "id": "language-javascript",
       "name": "JavaScript Support",
-      "description": "JavaScript language support with ES6+ features",
+      "description": "JavaScript language support with ES6+ features, syntax highlighting, and smart completions",
       "version": "1.0.0",
       "author": "VertexVolts",
       "downloads": 1800,
-      "rating": 4.7
+      "rating": 4.7,
+      "zipUrl": "https://cdn.matebricks.shop/javascript.zip",
+      "languages": ["js", "jsx", "mjs"],
+      "features": [
+        "ES6+ syntax highlighting",
+        "Smart code completion",
+        "Common snippets",
+        "Method suggestions",
+        "Modern JavaScript support"
+      ]
     }
   ]
 }
-
