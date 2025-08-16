@@ -34,6 +34,23 @@
         "Method suggestions",
         "Modern JavaScript support"
       ]
+    },
+    {
+      "id": "light-theme",
+      "name": "Light Theme",
+      "description": "A soothing light color theme for Aethon Lite.",
+      "version": "1.0.0",
+      "author": "Google Gemini",
+      "rating": "4.0",
+      "downloads": "500",
+      "zipUrl": "https://cdn.matebricks.shop/light-theme.zip",
+      "languages": [],
+      "features": [
+        "Light color palette",
+        "Easy on the eyes",
+        "Suitable for daytime use"
+      ]
     }
   ]
 }
+
