@@ -25,7 +25,7 @@
       "author": "VertexVolts",
       "downloads": 1800,
       "rating": 4.7,
-      "zipUrl": "https://cdn.matebricks.shop/javascript.zip",
+      "zipUrl": "https://cdn.matebricks.shop/language-javascript.zip",
       "languages": ["js", "jsx", "mjs"],
       "features": [
         "ES6+ syntax highlighting",
@@ -53,4 +53,5 @@
     }
   ]
 }
+
 
